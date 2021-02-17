@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 53b8637a785365b498164a8b836850ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8751562155133689038
+    second: Zelda_Idle
+  - first:
+      213: 7327589635109371570
+    second: Zelda_Run_1
+  - first:
+      213: -1253298063128591252
+    second: Zelda_Run_2
+  - first:
+      213: 5478311829084029820
+    second: Zelda_Run_3
+  - first:
+      213: -554375654547453607
+    second: Zelda_Crouch_2
+  - first:
+      213: -8474709876118634541
+    second: Zelda_Crouch_
+  - first:
+      213: -277239122760991756
+    second: Zelda_Jump_1
+  - first:
+      213: 2407593196508437642
+    second: Zelda_Jump_2
+  - first:
+      213: 1251917184089063282
+    second: Zelda 2 - Sprite Sheet_8
+  - first:
+      213: -6851698991079903748
+    second: Zelda 2 - Sprite Sheet_9
+  - first:
+      213: -7392975117373296979
+    second: Zelda 2 - Sprite Sheet_10
+  - first:
+      213: 5199082012568957128
+    second: Zelda 2 - Sprite Sheet_11
+  - first:
+      213: 4002583684150746130
+    second: Zelda 2 - Sprite Sheet_12
+  - first:
+      213: 6602101978286065012
+    second: Zelda 2 - Sprite Sheet_13
+  - first:
+      213: 4755012985797635981
+    second: Zelda 2 - Sprite Sheet_14
+  - first:
+      213: 8337110943915694510
+    second: Zelda_Attack_1
+  - first:
+      213: 6917379166222237318
+    second: Zelda_Attack_2
+  - first:
+      213: 8696352824452549077
+    second: Zelda_Attack_3
+  - first:
+      213: -6268171027788621208
+    second: Zelda 2 - Sprite Sheet_18
+  - first:
+      213: -2680311493131978100
+    second: Zelda 2 - Sprite Sheet_19
+  - first:
+      213: -8599291302679460616
+    second: Zelda 2 - Sprite Sheet_20
+  - first:
+      213: 2844931676954305535
+    second: Zelda 2 - Sprite Sheet_21
+  - first:
+      213: -6212845995555533206
+    second: Zelda 2 - Sprite Sheet_22
+  - first:
+      213: 6802606619085481400
+    second: Zelda 2 - Sprite Sheet_23
+  - first:
+      213: 4546450247166005756
+    second: Zelda 2 - Sprite Sheet_24
+  - first:
+      213: 3708407207095096261
+    second: Zelda 2 - Sprite Sheet_25
+  - first:
+      213: -3180135644420579026
+    second: Zelda 2 - Sprite Sheet_26
+  - first:
+      213: -1489668165904440004
+    second: Zelda 2 - Sprite Sheet_27
+  - first:
+      213: -7015826046187395095
+    second: Zelda 2 - Sprite Sheet_28
+  - first:
+      213: 8728952765455638764
+    second: Zelda 2 - Sprite Sheet_29
+  - first:
+      213: -663556915228201037
+    second: Zelda 2 - Sprite Sheet_30
+  - first:
+      213: -903565131941034383
+    second: Zelda 2 - Sprite Sheet_31
+  - first:
+      213: -4378251022328029398
+    second: Zelda 2 - Sprite Sheet_32
+  - first:
+      213: 7344038444815555012
+    second: Zelda 2 - Sprite Sheet_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zelda_Idle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccde7e896bc37970800000000000000
+      internalID: 8751562155133689038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Run_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 232
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be378c23f3d0b560800000000000000
+      internalID: 7327589635109371570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Run_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 232
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6409854d046b9ee0800000000000000
+      internalID: -1253298063128591252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Run_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 232
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73cf5d459fd60c40800000000000000
+      internalID: 5478311829084029820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Crouch_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 232
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959039687467e48f0800000000000000
+      internalID: -554375654547453607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Crouch_
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 232
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3473c448c36a80800000000000000
+      internalID: -8474709876118634541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 232
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb7df99c7c072cf0800000000000000
+      internalID: -277239122760991756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 233
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c5889914d796120800000000000000
+      internalID: 2407593196508437642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 232
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ff5d5cb04bf5110800000000000000
+      internalID: 1251917184089063282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 232
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda7c8c110e9e0a0800000000000000
+      internalID: -6851698991079903748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 232
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daea9a7ec40e66990800000000000000
+      internalID: -7392975117373296979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 232
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0bb456b89d62840800000000000000
+      internalID: 5199082012568957128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 232
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c549577a80c8730800000000000000
+      internalID: 4002583684150746130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 203
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47505a215c06f9b50800000000000000
+      internalID: 6602101978286065012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 203
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f66d01e133df140800000000000000
+      internalID: 4755012985797635981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 170
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9dd194b3e53b370800000000000000
+      internalID: 8337110943915694510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 170
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e3d5ba3b77fff50800000000000000
+      internalID: 6917379166222237318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 170
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d985fe81d6afa870800000000000000
+      internalID: 8696352824452549077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 170
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a934119abf209a0800000000000000
+      internalID: -6268171027788621208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 170
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ab87cd5ee9dcad0800000000000000
+      internalID: -2680311493131978100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 152
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44fa70f1e29a880800000000000000
+      internalID: -8599291302679460616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff32e1f794a3b7720800000000000000
+      internalID: 2844931676954305535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 170
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e44beeb7987c9a0800000000000000
+      internalID: -6212845995555533206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 170
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5af45ada6b76e50800000000000000
+      internalID: 6802606619085481400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf11153696c381f30800000000000000
+      internalID: 4546450247166005756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3d665f4b8e67330800000000000000
+      internalID: 3708407207095096261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 35
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21e0c00b73edd3d0800000000000000
+      internalID: -3180135644420579026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 35
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ee0a12b2a35be0800000000000000
+      internalID: -1489668165904440004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 35
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e72117e167c2ae90800000000000000
+      internalID: -7015826046187395095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 35
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0a52eca48732970800000000000000
+      internalID: 8728952765455638764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 35
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfa19350829ac6f0800000000000000
+      internalID: -663556915228201037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 35
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176c93fbc44e573f0800000000000000
+      internalID: -903565131941034383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 36
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f95a464e35d33c0800000000000000
+      internalID: -4378251022328029398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zelda 2 - Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 36
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c91b002e044be560800000000000000
+      internalID: 7344038444815555012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

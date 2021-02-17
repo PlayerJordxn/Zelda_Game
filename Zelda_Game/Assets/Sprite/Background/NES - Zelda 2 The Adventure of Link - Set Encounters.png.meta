@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 52b02ff89885acf4097c52aa5c0767c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1812408705608791541
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_0
+  - first:
+      213: 9187749937846150381
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_1
+  - first:
+      213: 5701325506576924971
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_2
+  - first:
+      213: 4346754292052542904
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_3
+  - first:
+      213: -8786265591357260082
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_4
+  - first:
+      213: -6546023516642792716
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_5
+  - first:
+      213: -5428509992040103220
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_6
+  - first:
+      213: 3084480987355448225
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_7
+  - first:
+      213: -4754922559883225598
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_8
+  - first:
+      213: 6033458394119764316
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_9
+  - first:
+      213: 5513566411487006298
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_10
+  - first:
+      213: -3881029739487472115
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_11
+  - first:
+      213: 8685898143826075091
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_12
+  - first:
+      213: -5963881593814501100
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_13
+  - first:
+      213: 7271896542354560375
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_14
+  - first:
+      213: 3916531949279560927
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_15
+  - first:
+      213: 1397617828468117949
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_16
+  - first:
+      213: 8118642314280736850
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_17
+  - first:
+      213: 1836734462605859650
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_18
+  - first:
+      213: 5573956969548089146
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_19
+  - first:
+      213: -7422545950507914766
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_20
+  - first:
+      213: 3424037891126922391
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_21
+  - first:
+      213: -6468190351049936665
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_22
+  - first:
+      213: -8383750281559357819
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_23
+  - first:
+      213: -5421030205810225842
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_24
+  - first:
+      213: -1929881197090702660
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_25
+  - first:
+      213: 7581382441128574665
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_26
+  - first:
+      213: -6796507021344750144
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_27
+  - first:
+      213: 8757968918964978543
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_28
+  - first:
+      213: 2550967516786312214
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_29
+  - first:
+      213: 2142444181957871137
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_30
+  - first:
+      213: -1589548245285545721
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_31
+  - first:
+      213: 6122746745352527173
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_32
+  - first:
+      213: -1958347689376786606
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_33
+  - first:
+      213: 8717524975875236327
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_34
+  - first:
+      213: -3358022728880828589
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_35
+  - first:
+      213: 2954342859787280340
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_36
+  - first:
+      213: 8947010549125891477
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_37
+  - first:
+      213: -5874178556016857502
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_38
+  - first:
+      213: 8118638386845978052
+    second: NES - Zelda 2 The Adventure of Link - Set Encounters_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2022
+        width: 1026
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f533ad7d18f62910800000000000000
+      internalID: 1812408705608791541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_1
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2022
+        width: 1060
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4ef62c3e1718f70800000000000000
+      internalID: 9187749937846150381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 258
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b214460675d2f1f40800000000000000
+      internalID: 5701325506576924971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1563
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b542bf9ff5c25c30800000000000000
+      internalID: 4346754292052542904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1798
+        width: 1026
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceb9ec0ff9e01680800000000000000
+      internalID: -8786265591357260082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1575
+        width: 1026
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa272f3b4ad725a0800000000000000
+      internalID: -6546023516642792716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1563
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc28ac87cee0aa4b0800000000000000
+      internalID: -5428509992040103220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1563
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a384cf9d174eca20800000000000000
+      internalID: 3084480987355448225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1564
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2065babdf1f130eb0800000000000000
+      internalID: -4754922559883225598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1343
+        width: 258
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c597b9c51762bb350800000000000000
+      internalID: 6033458394119764316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1343
+        width: 258
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e453a607f148c40800000000000000
+      internalID: 5513566411487006298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1343
+        width: 260
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d065f17b300d32ac0800000000000000
+      internalID: -3881029739487472115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_12
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1798
+        width: 260
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd5af987528a8870800000000000000
+      internalID: 8685898143826075091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_13
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1576
+        width: 1027
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4193236d9490c3da0800000000000000
+      internalID: -5963881593814501100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_14
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1564
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7755f6a8067fae460800000000000000
+      internalID: 7271896542354560375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_15
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1353
+        width: 1027
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4c644ae015a5630800000000000000
+      internalID: 3916531949279560927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_16
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1564
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db158959206556310800000000000000
+      internalID: 1397617828468117949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_17
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1564
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2589821ab263ba070800000000000000
+      internalID: 8118642314280736850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_18
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1798
+        width: 258
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b175623446d7910800000000000000
+      internalID: 1836734462605859650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_19
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1798
+        width: 258
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a370a3be45caa5d40800000000000000
+      internalID: 5573956969548089146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_20
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1555
+        width: 258
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f926fac8c1ddf890800000000000000
+      internalID: -7422545950507914766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1331
+        width: 71
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c09161250a48f20800000000000000
+      internalID: 3424037891126922391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1331
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e03f0a452f5c36a0800000000000000
+      internalID: -6468190351049936665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_23
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 481
+        width: 1042
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586c216b98fe6ab80800000000000000
+      internalID: -8383750281559357819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 1026
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc40aefb1a4c4b0800000000000000
+      internalID: -5421030205810225842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_25
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 907
+        width: 1027
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaf3b4b64fa735e0800000000000000
+      internalID: -1929881197090702660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 1026
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3add892b763960800000000000000
+      internalID: 7581382441128574665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_27
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 683
+        width: 1027
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c54c4f9fd4fda1a0800000000000000
+      internalID: -6796507021344750144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 258
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63c1d0845e8a8970800000000000000
+      internalID: 8757968918964978543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 674
+        width: 258
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614cb9fd07bd66320800000000000000
+      internalID: 2550967516786312214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_30
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 674
+        width: 258
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12683b0e1ad7bbd10800000000000000
+      internalID: 2142444181957871137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_31
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 674
+        width: 260
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d86eea4ac0f9e0800000000000000
+      internalID: -1589548245285545721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_32
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 460
+        width: 1027
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d9a66a9bd58f450800000000000000
+      internalID: 6122746745352527173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 1026
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2575dfbf62d82d4e0800000000000000
+      internalID: -1958347689376786606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_34
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 238
+        width: 1042
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1a3a337cedaf870800000000000000
+      internalID: 8717524975875236327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 1026
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fce51ae18e561d0800000000000000
+      internalID: -3358022728880828589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1026
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df155e9d2feff820800000000000000
+      internalID: 2954342859787280340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_37
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 258
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595425ee0ba2a2c70800000000000000
+      internalID: 8947010549125891477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_38
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 259
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ee56dd9b9ba7ea0800000000000000
+      internalID: -5874178556016857502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Set Encounters_39
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 0
+        width: 226
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd0ec339923ba070800000000000000
+      internalID: 8118638386845978052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
